@@ -1,0 +1,39 @@
+.livebody {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: rgb(186, 189, 186);
+    background-image: url('../assets/img/skills_background.webp');
+    background-size: cover;
+    
+}
+li {
+    font-size: 14px;
+    font-style: italic;
+    font-weight: normal;
+}
+a {
+    color: maroon;
+    text-decoration: none;}
+a:hover {
+    font-weight: bold;
+}
+a:visited {
+    color: rgb(71, 51, 37);
+}
+.resumeListHeading {
+    font-weight: bold;
+    font-style: normal;
+}
+.bold  {font-weight: bold;}
+.underline {text-decoration: underline;}
+.justify {text-align: justify;}
+.homepg {background-image: url('../assets/img/live_background.jpg');
+    background-size: cover;
+}
+
+.common {
+    /* background-color: #cccccc; */
+    position: absolute;
+    /* This makes it so that they aren't conflicting and referencing each other  */
+}
